@@ -1,5 +1,4 @@
-import math
-import sys
+import math, sys
 
 
 def example1():
