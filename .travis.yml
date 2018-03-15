@@ -8,4 +8,3 @@ before_install:
 
 script:
     - find . -name \*.py -exec pep8 {} +
-    - find . -name \*.py -exec pylint {} +
